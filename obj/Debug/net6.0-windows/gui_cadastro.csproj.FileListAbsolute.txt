@@ -1,0 +1,17 @@
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\bin\Debug\net6.0-windows\gui_cadastro.exe
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\bin\Debug\net6.0-windows\gui_cadastro.deps.json
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\bin\Debug\net6.0-windows\gui_cadastro.runtimeconfig.json
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\bin\Debug\net6.0-windows\gui_cadastro.dll
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\bin\Debug\net6.0-windows\gui_cadastro.pdb
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.FrmCadastroPessoa.resources
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.csproj.GenerateResource.cache
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.AssemblyInfoInputs.cache
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.AssemblyInfo.cs
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.csproj.CoreCompileInputs.cache
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.dll
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\refint\gui_cadastro.dll
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.pdb
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.genruntimeconfig.cache
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\ref\gui_cadastro.dll
+C:\Users\siess\Documents\C#\gui_cadastro\gui_cadastro\obj\Debug\net6.0-windows\gui_cadastro.FrmPessoa.resources
